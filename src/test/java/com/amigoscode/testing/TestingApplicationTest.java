@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class TestingApplicationTest {
-	
+
 	/*
 	*	When you build a Spring boot application using Spring Initializer. It auto creates a test class for you with contextLoads empty method.
 	*

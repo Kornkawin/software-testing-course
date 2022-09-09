@@ -57,6 +57,6 @@ public class PaymentService {
         paymentRequest.getPayment().setCustomerId(customerId);
         paymentRepository.save(paymentRequest.getPayment());
 
-        // 6. send sms
+        // TODO: 6. send sms
     }
 }
